@@ -1,0 +1,3 @@
+#
+*.yaml.org linguist-language=YAML
+*.pl.org linguist-language=Perl
